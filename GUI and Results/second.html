@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+.extra{
+  font-size: 100px;
+  padding-left:30px;
+  padding-right:40px;
+  color:green
+}  
+
+.btn-group button {
+  background-color: #4CAF50; /* Green background */
+  border: 1px solid green; /* Green border */
+  color: white; /* White text */
+  padding: 10px 40px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: left; /* Float the buttons side by side */
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial;
+  margin: 0 auto;  Center website 
+  max-width: 800px; /* Max width */
+  padding: 20px;
+}
+
+.heading {
+  font-size: 25px;
+  margin-right: 25px;
+}
+
+.hidden{
+  display:none;
+}
+
+.fa {
+  font-size: 25px;
+}
+
+.checked {
+  color: orange;
+}
+
+/* Three column layout */
+.side {
+  float: left;
+  width: 20%;
+  margin-top: 10px;
+  /*text-align: left;*/
+}
+
+.middle {
+  float: left;
+  width: 60%;
+  margin-top: 10px;
+}
+
+/* Place text to the right */
+.right {
+  text-align: right;
+  width:20%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* The bar container */
+.bar-container {
+  width: 100%;
+  background-color: #f1f1f1;
+  text-align: center;
+  color: white;
+}
+
+/* Individual bars */
+.bar-5 {height: 18px; background-color: #4CAF50;}
+.bar-4 {width: 30%; height: 18px; background-color: #2196F3;}
+.bar-3 {width: 10%; height: 18px; background-color: #00bcd4;}
+.bar-2 {width: 4%; height: 18px; background-color: #ff9800;}
+.bar-1 {width: 15%; height: 18px; background-color: #f44336;}
+
+/* Responsive layout - make the columns stack on top of each other instead of next to each other */
+@media (max-width: 400px) {
+  .side, .middle {
+    width: 100%;
+  }
+  /* Hide the right column on small screens */
+  .right {
+    display: none;
+  }
+}
+table, th, td {
+  border: 3px solid black;
+  /*border-collapse: collapse;*/
+}
+th, td {
+  padding: 15px;
+}
+
+.norm{
+  font-size:60px;
+  font-family:verdana;
+  text-align:center;
+}
+
+.inside{
+  font-size:30px;
+  font-family:verdana;
+  /*text-align:center;*/
+}
+.inside2{
+  font-size:20px;
+  font-family:verdana;
+  /*text-align:center;*/
+}
+
+.inside3{
+  font-size:30px;
+  font-family:verdana;
+  border: none;
+  background-color: inherit;
+  font-weight:bold
+}
+
+
+</style>
+</head>
+<body style="background-image: url('try2.jpg');"">
+
+<h2 class="norm" style="background-color:DodgerBlue">Sentiment Comparision Table</h2>
+
+<p><br></p>
+<p><br></p>
+
+<table style="width:100%">
+  <tr>
+    <th class="inside">Features/Attributes</th>
+    <th class="inside" ><button id="bt0" class="inside3" onclick="myfun('iPhone X',0)"> iPhone X </button> <p></p><img src="iphoneX.jpg" alt="Sentiment"  class="center" style="width:150px;height:150px;" > </th> 
+    <th class="inside"><button id="bt1" class="inside3" onclick="myfun('Redmi 6A',1)"> Redmi 6A</button> <p></p><img src="redmi6a.jpg" alt="Sentiment"  class="center" style="width:150px;height:150px;" > </th>
+    <th class="inside"><button id="bt2" class="inside3" onclick="myfun('Lenovo K8',2)"> Lenovo K8</button> <p></p><img src="lenovok8.jpg" alt="Sentiment"  class="center" style="width:150px;height:150px;" > </th> 
+    <th class="inside"><button id="bt3" class="inside3" onclick="myfun('Coolpad Coolplus',3)"> Coolpad Coolplus</button> <p></p><img src="coolplus.jpg" alt="Sentiment"  class="center" style="width:150px;height:150px;" > </th>
+  </tr>
+  <tr>
+    <td class="inside">Overall Sentiment Score</td>
+    <td class="inside">4.1 / 5</td>
+    <td class="inside">3.5 / 5</td>
+    <td class="inside">2.9 / 5</td>
+    <td class="inside">2.5 / 5</td>
+  </tr>
+  <tr>
+    <td class="inside">Camera Score</td>
+    <td class="inside">4.8 / 5</td>
+    <td class="inside">4.3 / 5</td>
+    <td class="inside">3.6 / 5</td>
+    <td class="inside">2.0 / 5</td>
+  </tr>
+  <tr>
+    <td class="inside">Battery Score</td>
+    <td class="inside">3.9 / 5</td>
+    <td class="inside">3.7 / 5</td>
+    <td class="inside">3.0 / 5</td>
+    <td class="inside">1.5 / 5</td>
+  </tr>
+  <tr>
+    <td class="inside">Display Score</td>
+    <td class="inside">4.3 / 5</td>
+    <td class="inside">4.0 / 5</td>
+    <td class="inside">2.8 / 5</td>
+    <td class="inside">2.5 / 5</td>
+  </tr>
+</table>
+
+<h3 class="norm" id="head"></h3>
+<p  class="inside2" id="para"></p>
+<p class="inside2" id ="open"></p>
+<br></br>
+<!-- <br></br> -->
+
+
+
+<h id="table2" style="visibility: hidden">
+<!-- the rating chart -->
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<span  class="heading">Sentiment Rating</span>
+<span id="s0" ></span>
+<span id="s1" ></span>
+<span id="s2" ></span>
+<span id="s3" ></span>
+<span id="s4" ></span>
+<p id="lh"></p>
+<hr style="border:3px solid #f1f1f1">
+
+<div class="row">
+  <div class="side">
+    <div>5 star</div>
+  </div>
+  <div class="middle">
+    <div class="bar-container">
+      <div id ="b0" class="bar-5"></div>
+    </div>
+  </div>
+  <div  class="side right">
+    <div id="hd0" ></div>
+  </div>
+  <div class="side">
+    <div>4 star</div>
+  </div>
+  <div class="middle">
+    <div class="bar-container">
+      <div id="b1" class="bar-4"></div>
+    </div>
+  </div>
+  <div class="side right">
+    <div id="hd1"></div>
+  </div>
+  <div class="side">
+    <div>3 star</div>
+  </div>
+  <div class="middle">
+    <div class="bar-container">
+      <div id="b2"class="bar-3"></div>
+    </div>
+  </div>
+  <div class="side right">
+    <div id="hd2"></div>
+  </div>
+  <div class="side">
+    <div>2 star</div>
+  </div>
+  <div class="middle">
+    <div class="bar-container">
+      <div id="b3"class="bar-2"></div>
+    </div>
+  </div>
+  <div class="side right">
+    <div id="hd3"></div>
+  </div>
+  <div class="side">
+    <div>1 star</div>
+  </div>
+  <div class="middle">
+    <div class="bar-container">
+      <div id="b4" class="bar-1"></div>
+    </div>
+  </div>
+  <div class="side right">
+    <div id="hd4"></div>
+  </div>
+</div>
+</h>
+
+<br></br>
+<br></br>
+
+<div id="mtf" class="btn-group" style="visibility: hidden">
+  <button class="inside2" id="pt0" onclick="myfun2(0)"></button>
+  <button class="inside2" id="pt1" onclick="myfun2(1)"></button>
+  <button class="inside2" id="pt2" onclick="myfun2(2)"></button>
+  <button class="inside2" id="pt3" onclick="myfun2(3)"></button>
+  <button class="inside2" id="pt4" onclick="myfun2(4)"></button>
+  <button class="inside2" id="pt5" onclick="myfun2(5)"></button>
+  <button class="inside2" id="pt6" onclick="myfun2(6)"></button>
+  <button class="inside2" id="pt7" onclick="myfun2(7)"></button>
+</div>
+<br></br>
+
+
+<div id="bottom" style="visibility:hidden" >
+
+<h7 id="rate" class="extra"></h7>  
+
+<a id="link">View All Related Reviews</a>
+
+<hr>
+
+<p class="inside2">Some Reviews discussing the above clicked feature are listed below:</p>
+<br></br>
+
+<q style="color:#663300"class="inside2"id="rv1"></q>
+<p style="color:red"class="inside2"id="sc1"></p>
+<br></br>
+<!-- <br></br> -->
+
+<q style="color:#663300" class="inside2"id="rv2"></q>
+<p style="color:red"class="inside2"id="sc2"></p>
+
+</div>
+
+
+
+<script>
+  var info = ["Apple iPhone X  was launched in September 2017. The phone comes with a 5.80-inch touchscreen display with a resolution of 1125x2436 pixels at a pixel density of 458 pixels per inch (ppi) and an aspect ratio of 19.5:9.Apple iPhone X is powered by a 2.39GHz hexa-core Apple A11 Bionic processor. It comes with 3GB of RAM.The Apple iPhone X runs iOS 11 and is powered by a 2716mAh non-removable battery. The Apple iPhone X supports proprietary fast charging.As far as the cameras are concerned, the Apple iPhone X on the rear packs a 12-megapixel primary camera with an f/1.8 aperture and a pixel size of 1.22-micron and a second 12-megapixel camera", "Redmi 6A offers a 5.45-inch HD+ screen covering 80.5% of the front surface and having an aspect ratio of 18:9. Features available are sunlight display, night display, reading mode, automatic contrast, increased contrast, color temperature adjustment and standard mode. The smartphone is powered by 12nm processor clocked at 2.0GHz and runs on customized MIUI 9 based on Android Pie operating system. On the camera front, the phone offers a 13MP main camera at the back that is claimed to capture in-motion photos with detailed quality. There is also a 5MP front-facing camera with Portrait mode, Standard HDR and Beautify mode. The front camera can also be used to unlock the device.", "Lenovo K8 comes with a 5.20-inch touchscreen display with a resolution of 720x1280 pixels.Lenovo K8 is powered by a 2.3GHz octa-core MediaTek Helio P20 processor. It comes with 3GB of RAM.Lenovo K8 based on Android 7.1.1 and packs 32GB of inbuilt storage that can be expanded via microSD card (up to 128GB). The Lenovo K8 is a dual-SIM (GSM and GSM) smartphone that accepts Nano-SIM and Nano-SIM cards.","Coolpad CoolPlus smartphone has a IPS LCD display. It measures 145.7 mm x 70.9 mm x 8.2 mm and weighs 135 grams. The screen has a resolution of 720 x 1520 pixels and 295 ppi pixel density. It has an aspect ratio of 19:9 and screen-to-body ratio of 78.39 %. On camera front, the buyers get a 8 MP Front Camera and on the rear, there's an 13 MP camera with features like Digital Zoom, Auto Flash, Face detection, Touch to focus. It is backed by a 3000 mAh battery. Connectivity features in the smartphone include WiFi, Bluetooth, GPS, Volte, and more."];
+
+  var f=[["Overall","Camera","Battery","Display","Money","Design","Portrait","Genuine"],["Overall","Camera","Battery","Display","Heating","Speaker","Return","Budget"],["Overall","Camera","Battery","Display","Perfomance","Selfie","Android","Charge"],["Overall","Camera","Battery","Display","Support","Heating","Customer","Durable"]]
+  var s=[[4.1,4.8,3.9,4.3,3.1,4.8,4.8,4.4],[3.5,4.3,3.7,4.0,2.3,3.3,1.5,4.8],[2.9,3.6,3.0,2.8,4.1,3.9,3.6,2.3],[2.5,2.0,1.5,2.5,2.1,1.7,1.7,3.7]]
+
+  var curr;
+  var numc;
+
+
+  var rvs=[[["This is my first iphone i was a long time android user but after using this iphone my views have been completely changed for androids after using ios or iphone i have realised that iphone is much better than android in terms of display,camera,speed the iphone works seamless i mean the speed is very good the battery is okay if you dont play games the battery will run for a whole day in a single charge 2-the camera is mind blowing 3- the phone processor speed is great cons 1- the battery drains fast when you play games or if you keep bright display light then also battery will not be able to keep it for a whole day","Apple iphone x (space grey, 3gb ram, 64gb storage) poor quality product did not turn on at all after unboxing shame and waste of money"],["The camera is very good being a dual camera and all and the pictures are pretty good, although i am not a avid mobile photographer.","Cameras, well for the videos they are the best no competition whatsoever, for photos they are one of the best if not the best available in the market."],["Phone looks absolutely fine but battery is very weak though it has fast charging option my phone requires 4-5 hours to get charged completely n also my phone is very slow.. feels like i have got a refurbished phone.","this product is faulty ...battery life is nothing and it is taking more then 2 hours to charge ...screen shivering is there and voice issue"],["I find the display best even better than smasung due to natural colours samsung phone are very oversaturated even though they also use samsung display a thing you realise when you send someone a pic before buying something and when you reach they realise color look nothing like on there phone.","Display is the best - i have seen many phones, but this display is rocking."],["my recommendation: avoid apple products, rather go for samsung or huawei or one plus, as they provide better service than this $1 trillion company who just bilks money out of everyone.","The phone is just too expensive 1000$ for a phone is just absurd"],["one of the best crafted and precisely designed iphone ever in apple market.The design is best in class.","Beautiful edges and design.Iphone X itself is iconic.excellent product from apple.....classy design...."],["the camera is top notch and portrait mode is the best any camera offers.","Iphone x is really good in this segment.it has superb feature like face detection,portrait mode , super retina hd display ."],["After ordering the product in sale, i was bit worried but when i unbox the packet i found everything genuine and finally am happy that i bought it only in 67,999.","I got this product for 64,999 only in exchange offer and i must say it was the best deal ever.. product was 100% genuine and have been using since more than a month now and everything works excellent ."]]  ,  [["it is not a best buy because it is only having 16gb internal which is too less and does not even have fingerprint sensor i am not asking all these features for a mobile priced at this cost but if you have budget it is not at all a best buy","Redmi 6a has lag problems. this phone is hanging and lags while using youtube and browser.redmi 5a is far better than redmi 6a. i am regretting on my decision for buying this phone. not satisfied."],["Camera quality is also very awesome in this price range of Rs 6000 due to 13mp camera and 5mp front camera, No other brand gives this type of value","Camera is not working and picture quality is not good I can see only blue and brown, where are rest of the colors?"],["battery backup is very low, you will need to charge the phone twice daily.","Often the battery is not charging properly and getting drained out very fast.This thing has major battery issues."],["The only problem is though the display is 5.45 inch but the fact is the display has a larger length and very thin breadth which makes the display looks even smaller than regular 5 inch screen mobile, actually the breadth is smaller than regular 5 inch display mobiles!","The led display of the phone is worst.The redmi 5a has a far far better display."],["heating issue while charging is annoying.","I needed an immediate replacement as the mobile phone got really hot while using internet and camera"],["Speaker volume is low and when you are on call It is just moderately loud , not enough clarity.","The sound quality in loudspeaker is very weak.A little disappointing positioning since speakers are kept on back side of the phone."],["horrible service from amazon, this is like we pay and we are stuck with you guys... the phone is a waste of money the battery drains out very fast and phone gets heated up very quickly... we cannot return the phone cause it says replacement is there but how is it that we cannot return the product as we are unhappy","Not only one day I called many a days and complained to amazon 8 times but amazon did not agree for replacement and also no return"],["A good choice for people looking for low budget phone.built quality is good and It is light weight.Camera performance is average but good in daylight condition.","Superb phone!! In budget cannot ask for more. Loved everything about the phone It is amazing if you have budget of 6000 then go for it blindly i gifted it to my grandfather,he is more than happy"]]  , [["one of the worst phone i ever used, giving so individual powerful parts lenovo still could not give a combined powerful performance. heats up like anything while charging or playing game, the heating is such high that the screen starts lagging. after oreo update performance has found again a new low. battery is is also poor when low battery alert comes at 15% it reaches to 0 in 2-3 minutes (yes just 2-3 minutes), after using this phone for 9 months sometime touch screen problem starts happening. at top left the screen got some yellow patches. highly disappointed with lenovo. maybe my handset is faulty in one of hundred sets but this is all what i keep facing","this is the most amazing phone I have seen in this price range!! it should be more costly but it is not! it is totally cheap. it is camera, performance, screen quality, picture quality, sound clarity is amazing and too good to be true! trust me I am using this phone since a years now, and it works totally fine till now, it has given me no problems what so ever! this is the first phone having decca core (10 core) processer. so great for multitasking and gaming! with dolby atmos for amazing clarity and surround sound! which is great for watching movies, gaming, listening to your favorite music, etc. in short, best bank for your buck!"],["With software update, there is a new issue the camera does not start sometimes and i have to restart the mobile several times to make it work.","The camera is just average.The camera performance is great in abundant light but pathetic in low light.terrible performance of both front and rear camera in low and transient lighting condition."],["The battery is worst, exhausted in 3-4 hrs completed even in idle condion.In mornng 6'o clock... phone gets dead battery every day even i left the battery 60-65% in night 12 o' clock.","Lenovo claims it as turbo charging, but it takes around 4-5 hours for charging 100 %.more over battery drains fast - even if the internet is switched off."],["Just after 4-5 months of regular use, the display became defective it had color change issue near volume buttons.","The touch respose of display is bad. Also a small thing you cannot put a tempered glass on its display as 2.5d curved edges will show up bubbles around edges."],["the phone has already got latest oreo update, along with enhancements to sound, performance and camera.I am using it over 3 months and i am damn sure its a very good android phone also its performance is very good.","Performance is very smooth with 4 gb ram and hang free. both Performance and quality are far better than other chinese brands."],
+    ["the Camera quality is great with front selfie flash and back flash ,with the depth enabled mode, the pictures can run upto 12mb for one picture.","I got this mobile on oct 5th and tried to capture a pic ( selfie and with back as well ), but strange as it is 13 mp it should have good clarity where it is not upto the mark."],["Very bad camera, battery heating issue, awesome processor , storage space is also good thanks to extra sd card slot , battery back up is good , only stock android is bit disappointing but on the other hand performance improved.","The phone runs on stock android, it functions smoothly and gets regular software updates. Recently updated the phone to oreo"],["The turbo charger included does not perform up to the mark. They did provide a turbo charger but it takes 2.2 hours for this phone to charge fully.","The battery life was ok for the first 3 months but the life of battery now is hardly few hours even after full charge.Also it heats up a lot while charging."]] , [["I had a big expectations from this mobile and this time i just ignore other big brand which is available in the market with same or better configuration .Camera quality not good .picture are not so impressive ,sound quality also not so great .while calling you need to stick phone to your ear closely .noisy area the sound is not at all audible .heating problem with this mobile and getting drain very fast .I have not downloaded much applications except paytm but still phone battery is lasting for 4-5 hours .overall not happy at all with this phone","Very bad experience buying this phone  I sold it the next day on olx. Poor camera quality. Poor batery backup. Only good think is providing 3 gb ram and 32 gb storage in this price range."],["The camera quality is low when compared to mi phones of this price.The photos are always oversaturated and do not feel natural at all.","It takes ages to click a photo using the camera. The video quality is terrible too with ver low fps."],["Very bad product do not by this phone ,the battery back-up is worst i have seen in any smartphone, within 2hours use phone battery is completely discharged.","Even with the low price the charging time on this phone is unacceptable.It takes around 4 hrs to charge"],["Colored vertical lines started appearing  on the display right on the 1st day of purchase. The display unit was completely faulty.","After using for one month the display started malfunctioning. worst product, the touch screen completely stopped responding"],["I got this phone today at 4 pm  and it got hanged couple of times even when there is only one application installed in the phone... i called support heldesk number to return this phone so that ican  order a new phone in exchange of this but they denied to return.","Very poor quality camera and screen both...phone is getting hang very frequently media player support not working."],["Worst phone, phone is getting highly heated up which is causing frequent lags. Camera quality is very poor screen quality is very poor ,return or replacement was not done by amazon.","The phone is heating like crazy on charging. I stopped using as it felt unsafe."],["Do not purchase this phone bcoz quality is not good waste of money, such bad screen camera and charger.customer service is not good at all. total waste of money... i requested to all of you do not buy this phone","I am going to fight a legal battle with amazon regarding forgery and misleading a customer to buy a terrible product."],["The phone was durable in my case as i only used it for 6 months as a spare phone.","The phone is not durable at all, it started malfunctioning in a few days of the purchase."]]]
+
+  var rvss=[[[4.8,2.5],[4.7,4.8],[3.5,2.3],[4.4,4.1],[2.8,3.3],[4.2,4.5],[4.1,4.4],[4.8,4.8]],
+  [[3.2,2.1],[4.8,2.3],[2.3,3.4],[3.7,3.5],[1.7,2.7],[3.2,2.5],[2.1,1.7],[4.8,4.7]],
+  [[1.5,4.1],[3.2,3.7],[2.4,2.7],[2.1,2.4],[4.2,4.0],[4.1,3.4],[3.2,3.7],[2.5,2.1]],
+  [[1.7,2.1],[2.1,1.7],[1.7,1.6],[2.5,1.2],[1.9,2],[1.7,1.9],[1.8,1.7],[3.9,3.1]]]
+
+  var numr=[1000,800,800,450]
+
+  var perc=[[45,30,20,20,10],[20,45,30,20,10],[10,20,45,30,10],[10,15,20,45,30]];
+
+  var star=[[1,1,1,1,0],[1,1,1,0,0],[1,1,1,0,0],[1,1,0,0,0]]
+
+
+
+  function myfun(name,num){
+
+    
+    document.getElementById("lh").innerHTML=s[num][0] +"  average rating based on " + numr[num]+" customer reviews"
+
+    document.getElementById("hd0").innerHTML="120";
+    document.getElementById("hd1").innerHTML="120";
+    document.getElementById("hd2").innerHTML="120";
+    document.getElementById("hd3").innerHTML="120";
+    document.getElementById("hd4").innerHTML="120";
+
+    document.getElementById("hd0").style.visibility="hidden";
+    document.getElementById("hd1").style.visibility="hidden";
+    document.getElementById("hd2").style.visibility="hidden";
+    document.getElementById("hd3").style.visibility="hidden";
+    document.getElementById("hd4").style.visibility="hidden";
+
+
+    document.getElementById("bottom").style.visibility="hidden"
+    curr=name
+    numc=num
+    var x=document.getElementById("head")
+    x.innerHTML=name
+    x.style.color="black";
+    x.style.border="2px solid #4CAF50";
+
+    for(i=0;i<4;i++){
+      var x2=document.getElementById("bt"+i)
+      x2.style.border="0px solid #4CAF50";
+    }
+    var x1=document.getElementById("bt"+num)
+    x1.style.border="2px solid #4CAF50";
+
+    var y=document.getElementById("para")
+    y.innerHTML=info[num]
+
+    document.getElementById("open").innerHTML="A more detailed sentiment analysis on the phone features which includes the <b>most talked about aspects</b> of the phone are shown below:"
+
+    for(i=0;i<8;i++){
+      document.getElementById("pt"+i).innerHTML=f[num][i]
+    }
+    document.getElementById("mtf").style.visibility="visible"
+
+    document.getElementById("table2").style.visibility="visible"
+    for(i=0;i<8;i++){
+      document.getElementById("pt"+i).style.border="0px solid #4CAF50"
+    }
+
+    for(i=0;i<5;i++){
+
+    document.getElementById("b"+i).style.width=perc[num][i]+"%"
+
+      }
+
+     for(i=0;i<5;i++){
+      if(star[num][i]==1)
+    document.getElementById("s"+i).className="fa fa-star checked"
+      else
+        document.getElementById("s"+i).className="fa fa-star"
+
+     } 
+
+
+   
+  }
+
+  function myfun2(num){
+
+    for(i=0;i<8;i++){
+      document.getElementById("pt"+i).style.border="0px solid red"
+    }
+
+    document.getElementById("pt"+num).style.border="2px solid red"
+
+    document.getElementById("bottom").style.visibility="visible"
+    document.getElementById("link").href=curr+num+".txt"
+    document.getElementById("rate").innerHTML=s[numc][num]
+    document.getElementById("rv1").innerHTML=rvs[numc][num][0]
+    document.getElementById("rv2").innerHTML=rvs[numc][num][1]
+    document.getElementById("sc1").innerHTML= "Sentiment Rating: " +rvss[numc][num][0]
+    document.getElementById("sc2").innerHTML="Sentiment Rating: " +rvss[numc][num][1]
+
+
+
+  }
+</script>
+
+
+</body>
+</html>

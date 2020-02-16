@@ -1,0 +1,661 @@
+nice  look  glass  blue  colour  I  love  If  bored  MI  phone  bcz  family  members  using  MI  bored  features  go  honor  9N...!
+
+neg: 0.141, neu: 0.505, pos: 0.353, compound: 0.807, 
+
+
+IN  price  range  phone  perfect.
+neg: 0.0, neu: 0.519, pos: 0.481, compound: 0.5719,
+
+ 
+According  except  battery  quite  average  performance,  beautiful  EMUI  skin  better  miui,  feels  like  apple  device.
+neg: 0.0, neu: 0.556, pos: 0.444, compound: 0.8612,
+
+ 
+Perfect  design  super  amazing  display,....
+neg: 0.0, neu: 0.149, pos: 0.851, compound: 0.9081, 
+I'm  happy  honor  9N.
+neg: 0.0, neu: 0.225, pos: 0.775, compound: 0.7845, 
+Battery  =  3/5  display  =  5/5  camera  =  4.5/5  EMUI  skin  =  4/5  ignore  negatives  t...  Nice  color  battery  backup  poor...3000mah  battery  enough  3000  mah  battery  poor.
+neg: 0.197, neu: 0.704, pos: 0.099, compound: -0.4215, 
+When  I  using  internet  tube  5mns  heating  I  satisfied  choosing  company  Awesome  phone  battery  life  bad  performance  good.good  looking  notch  awesome  looks  n  easy  handle.
+neg: 0.102, neu: 0.494, pos: 0.404, compound: 0.886, 
+Excellent  device...Ordered  product  31st  July,2018  delivered  1st  August,2018...Camera,sound,battery,super  build  quality,  unique  design,processor  superb...Those  r  giving  negative  review  know  anything  mobile...Last  least  u  want  experience  latest  features  purchase  enjoy...  "Pro-  Superb  Look...  Magnificant  screen...Probably  Best  screen  budget  ??
+neg: 0.101, neu: 0.596, pos: 0.303, compound: 0.8965, 
+Awesome  camera  performance  (even  low  light)  Cons-  Battery  Drained  Too  Fast  ...  Definitely  Go  it..
+neg: 0.205, neu: 0.491, pos: 0.304, compound: 0.4939, 
+????"
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Battery  performance  good,  heating  problem  also  Awsm  awesome  phone  price  range.
+neg: 0.153, neu: 0.452, pos: 0.395, compound: 0.6486, 
+Camera  awesome  phone  lagging  playing  PUBG  heating  little  42-43  degrees.
+neg: 0.14, neu: 0.467, pos: 0.393, compound: 0.5859, 
+No  video  call  function  ie  install  3rd  party  app  video  calling.
+neg: 0.158, neu: 0.647, pos: 0.194, compound: 0.128, 
+PHONE  IS  LIGHT  WEIGHT  AND  HANDY.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+4GB  RAM  WITH  THIS  PROCESSOR  IS  LAGGING  THAT'S  A  ISSUE.
+neg: 0.208, neu: 0.792, pos: 0.0, compound: -0.2732, 
+Delivered  next  day  booking....  Wow  good  choice  14k....  "There  one  competitor  price  segment  Honor  9N  &  Redmi  Note  5  Pro.
+neg: 0.0, neu: 0.602, pos: 0.398, compound: 0.872, 
+I  already  using.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Both  phone  stands  quality  &  performance.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+But  display  Honor  9n  better  Redmi  Note  5  Pro.
+neg: 0.0, neu: 0.496, pos: 0.504, compound: 0.7269, 
+camera  quality  Redmi  Note  5  Pro  better  Honor  9n.
+neg: 0.0, neu: 0.496, pos: 0.504, compound: 0.7269, 
+Design  Honor  9n  Beautiful  Redmi  Note  5  Pro.
+neg: 0.0, neu: 0.413, pos: 0.587, compound: 0.7964, 
+Honor  handy  phone.
+neg: 0.0, neu: 0.385, pos: 0.615, compound: 0.4939, 
+easy  handle  nd  hold  hand.
+neg: 0.0, neu: 0.33, pos: 0.67, compound: 0.7269, 
+camera  features  Honor  9n  Redmi  Note  5  Pro.
+neg: 0.0, neu: 0.652, pos: 0.348, compound: 0.4939, 
+o..."  light  weight  Camera  quality  best.
+neg: 0.0, neu: 0.543, pos: 0.457, compound: 0.6369, 
+????
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Amazing  phone..  You  gotta  hold  hand  feel  beauty  Honor..
+neg: 0.0, neu: 0.357, pos: 0.643, compound: 0.8957, 
+I  using  MI  phones  theast  3  years  Honor  welcome  change..
+neg: 0.0, neu: 0.492, pos: 0.508, compound: 0.7351, 
+Display  vibrant..  EMUI  good..  Fingerprint  sensor  Face  unlock  works  smoothly  without  lag..  To  sum  9/10..  Will  extensive  real  world  usage  testing  update  review  performance  battery  life..
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Ordered  phone  7th  received  today  afternoon.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+After  looking  sevice  qill  feel  amazed  classy  premium  looks  it.
+neg: 0.0, neu: 0.567, pos: 0.433, compound: 0.7269, 
+At  14k  price  value  4gb  slot  notch  display  definitely  makes  benchmark.
+neg: 0.0, neu: 0.638, pos: 0.362, compound: 0.6249, 
+The  display  cool  high  brighness  full  hd.
+neg: 0.0, neu: 0.723, pos: 0.277, compound: 0.3182, 
+Need  atleast  1  month  regular  usuage  give  tge  performance  it.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+But  today  open  almost  10+  app  together  download  set  up..  Doesnt  feel  anykind  disturbment  lagging  till  now.
+neg: 0.116, neu: 0.884, pos: 0.0, compound: -0.2732, 
+De...
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Awesome  phone  value  money  camera  good..
+neg: 0.0, neu: 0.381, pos: 0.619, compound: 0.7579, 
+??
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Battery  backup  good.
+neg: 0.0, neu: 0.408, pos: 0.592, compound: 0.4404, 
+"Best  phone  ever....Look  like  iphone  10...  Great  feeling  hold  hand  fast  face  detection...compact  size"  Ausom  "damn  Awesome  phone!!
+neg: 0.08, neu: 0.325, pos: 0.596, compound: 0.9551, 
+Design  premium  compare  Mi  phones.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Nice  small  size  device.
+neg: 0.0, neu: 0.517, pos: 0.483, compound: 0.4215, 
+Notch  looks  amazing.
+neg: 0.0, neu: 0.345, pos: 0.655, compound: 0.5859, 
+I  Redmi  note  5  pro  I  got  phone  I  wanted  small  size  phone.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Emui  smooth.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+responsive  fingerprint  face  unlock.
+neg: 0.0, neu: 0.545, pos: 0.455, compound: 0.3612, 
+Battery  3000mah,  sounds  less  right?
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+trust  battery  backup  amazing  I  able  use  1  half  day!
+neg: 0.0, neu: 0.448, pos: 0.552, compound: 0.8122, 
+Coming  camera,  sharp  compare  Redmi  Note5p,  also  interesting  inbuilt  camera  features.
+neg: 0.0, neu: 0.787, pos: 0.213, compound: 0.4019, 
+front  camera  i..."  "Look  great.Its  honor  phone.Its  lookwise  great  performance  wise  strong.Display  juat  great  less  Asus.Headphone  aound  output  great.Music  lovers  stay  away  Cant  handle  high  end  games.So  Game  lovers  also  stay  away.
+neg: 0.0, neu: 0.55, pos: 0.45, compound: 0.9694, 
+camera  great.Portrainlt  mood  bad.Only  Selfie  good.
+neg: 0.0, neu: 0.633, pos: 0.367, compound: 0.4404, 
+Final  verdict  still  RN5  PRO  BEST.NOT  A  VALUE  money  13999."
+neg: 0.0, neu: 0.597, pos: 0.403, compound: 0.5766, 
+"I  bought  phone  1st  sale.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+I  bought  4gb  ram  64gb  memory  variant.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+After  using  1  month  I'll  conclude  good  bad  things  following-  Display-  Display  amazing.
+neg: 0.182, neu: 0.469, pos: 0.349, compound: 0.4939, 
+color  reproduction  good.
+neg: 0.0, neu: 0.408, pos: 0.592, compound: 0.4404, 
+If  talk  display  one  best  display  range.
+neg: 0.0, neu: 0.588, pos: 0.412, compound: 0.6369, 
+Design-  Phone  quite  handy.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Looks  great.
+neg: 0.0, neu: 0.196, pos: 0.804, compound: 0.6249, 
+Back  slippery  glass.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Otherwise,  design  good.
+neg: 0.0, neu: 0.408, pos: 0.592, compound: 0.4404, 
+Processor-  Processor  good,  good  snapdragon's  processor.
+neg: 0.0, neu: 0.408, pos: 0.592, compound: 0.7003, 
+Heats  playing  heav..."  Apart  notch  display  nothing  exciting  Honor  9n,  totally  disappointed  camera  battery  performance.
+neg: 0.403, neu: 0.513, pos: 0.084, compound: -0.7814, 
+Unfortunately  exchange  offer  also  available  Flipkart  mobile.
+neg: 0.286, neu: 0.714, pos: 0.0, compound: -0.34, 
+Not  worth  price.
+neg: 0.454, neu: 0.546, pos: 0.0, compound: -0.1695, 
+#honor  can't  compete  Redmi#totally  disappointed.
+neg: 0.0, neu: 0.61, pos: 0.39, compound: 0.3724, 
+Amazing  phone  lot  features  notch  front  camera  amazing  super  phone  best  value  money  beautiful  notch  good  phone  slim  sexy  product  worth  money  issues  image  clearity  front  camera  good  back  camera  good  ..
+neg: 0.0, neu: 0.368, pos: 0.632, compound: 0.9882, 
+Battery  performance  low  2chargings  day  required  overall  good  product...
+neg: 0.175, neu: 0.583, pos: 0.242, compound: 0.2023, 
+Adding  pictures  The  phone  impressive  looking  smooth  performance  feel  premium  use.
+neg: 0.0, neu: 0.752, pos: 0.248, compound: 0.5106, 
+Camera  good  Beautiful  design.
+neg: 0.0, neu: 0.227, pos: 0.773, compound: 0.7783, 
+Classy  finish.
+neg: 0.0, neu: 0.256, pos: 0.744, compound: 0.4404, 
+Love  phone  mobile  looking  beautiful.camera  function  awsmmmmm.mobile  get  heating  within  half  hour.after  nice  mobile.
+neg: 0.0, neu: 0.632, pos: 0.368, compound: 0.7906, 
+I  quite  dissatisfied  phone  terms  performance  well  camera  quality.
+neg: 0.263, neu: 0.546, pos: 0.191, compound: -0.2006, 
+phone  identical  look  fabulous  finish  design.
+neg: 0.0, neu: 0.595, pos: 0.405, compound: 0.5267, 
+Loved  it....
+neg: 0.0, neu: 0.204, pos: 0.796, compound: 0.5994, 
+??
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Really  nice...  excellent  product..  phone  amazing  useful  Mobile  stunning  attractive.
+neg: 0.0, neu: 0.236, pos: 0.764, compound: 0.9449, 
+Light  weight  handy..  About  softwares  application  ,  far  everything  good.
+neg: 0.0, neu: 0.734, pos: 0.266, compound: 0.4404, 
+Guess  batery  backup  super..  maximum  20hrs  :)  awesome..
+neg: 0.0, neu: 0.7, pos: 0.3, compound: 0.4588, 
+HONOR  -  Huawei  great  job  :)  Got  better  product  replacement.
+neg: 0.0, neu: 0.264, pos: 0.736, compound: 0.9317, 
+Thankyou  flipkart.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Nice  camera,  day  night.
+neg: 0.0, neu: 0.517, pos: 0.483, compound: 0.4215, 
+Good  job  huvawai  Love  Nice  peice  huwaei...
+neg: 0.0, neu: 0.288, pos: 0.712, compound: 0.872, 
+I  brought  phone  friend...  My  phone  Honor  10..Selfi  Camera  Awesome..
+neg: 0.0, neu: 0.714, pos: 0.286, compound: 0.4939, 
+Better  honor  10..back  also  Good  one..
+neg: 0.0, neu: 0.25, pos: 0.75, compound: 0.8402, 
+Totally  best  phone  price  range..
+neg: 0.0, neu: 0.471, pos: 0.529, compound: 0.6697, 
+Camera  also  performs  well  low  light  conditions  looking  nice  mobile....  Nice  mobile  price.
+neg: 0.112, neu: 0.479, pos: 0.41, compound: 0.6808, 
+Happy  get  made  India  mobile.
+neg: 0.0, neu: 0.519, pos: 0.481, compound: 0.5719, 
+Battery  performance  good.
+neg: 0.0, neu: 0.408, pos: 0.592, compound: 0.4404, 
+Not  much  heating  playing  high  resolution  games.
+neg: 0.21, neu: 0.79, pos: 0.0, compound: -0.1511, 
+Fast  charging.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Face  unlock  word  fine.
+neg: 0.0, neu: 0.625, pos: 0.375, compound: 0.2023, 
+Camera  result  see  attached  image.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Awesome  smart  phone.
+neg: 0.0, neu: 0.128, pos: 0.872, compound: 0.7783, 
+Thanks  flipkart  "It  beautiful  phone  price  segment...  Pros  :-  Design  10/10  Notch  Display  10/10  Glass  Back  10/10  Compact  Mobile,  Easy  To  Handle  With  One  Hand  EMUI  8.0  Has  Amazing  Features...
+neg: 0.0, neu: 0.6, pos: 0.4, compound: 0.9493, 
+Performance  9/10  ,  No  Lagging  Fast  Face  And  Fingerprint  Unlock  10/10  Cons:-  Battery  Backup  Of  1  day  Only,  Could  Have  Been  Better  8/10  Camera  Is  Good  But  Still  Could  Have  Been  Better  8/10  Overall  It's  A  Must  Buy  Product...  Value  For  Money  10/10  Hit  The  Like  Button  If  U  Liked  My  Review...??"
+neg: 0.07, neu: 0.655, pos: 0.274, compound: 0.9092, 
+"The  worst  phone  received  used  far.
+neg: 0.451, neu: 0.549, pos: 0.0, compound: -0.6249, 
+As  per  (not  true)  reviews  made  YouTube  purchased  phone.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+But  soon  started  capturing  photos  showed  vry  poor  performance.
+neg: 0.279, neu: 0.721, pos: 0.0, compound: -0.4767, 
+Images  clear  expected.
+neg: 0.0, neu: 0.435, pos: 0.565, compound: 0.3818, 
+I  would  suggest  go  another  brand  looking  phone  budget.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+I  would  also  request  youtubers  post  genuine  reviews  guide  views  right  track.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Don't  go  publicity  fam  ,  genuineness  posts"  look  device  similar  honor  9  lite  except  notch  display.
+neg: 0.0, neu: 0.802, pos: 0.198, compound: 0.4939, 
+look  wise  device  nice  feels  really  premium  hand  I  must  say  good  choice  since  look  well  performance.
+neg: 0.0, neu: 0.433, pos: 0.567, compound: 0.9243, 
+battery  back  little  low  good  device  price  "Decent  phone  price  range.....  Kirin  659  mark  gaming..  For  daily  normal  use  good  phone.....
+neg: 0.072, neu: 0.719, pos: 0.209, compound: 0.5325, 
+Battery  back  us  good....  For  10-100%  charging  takes  2.30hrs  full  charge  (without  use)...  At  last  say  price  range  good  phone  every  respect...."  "Thanks  Flipkart  fast  delivery  I  got  product  1day  coming  mobile.
+neg: 0.0, neu: 0.833, pos: 0.167, compound: 0.7003, 
+Pros.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+1.beautiful  design  2  fast  fingerprint  face  unlock  3  good  camera  4.
+neg: 0.0, neu: 0.734, pos: 0.266, compound: 0.4404, 
+Good  processor  considering  price  good  specs  5  good  back  cover  others  Cons.
+neg: 0.0, neu: 0.479, pos: 0.521, compound: 0.8271, 
+1.they  provide  screen  guard  mobile  2.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+No  gesture  support  3.
+neg: 0.319, neu: 0.29, pos: 0.391, compound: 0.128, 
+Only  3000mah  battery  that's  ok  normal  user  Overall  phone  worth  buying  price  range  Just  go  i..."  good  experience  mobile  I'm  happy..  Good  mobile  great  value  money  camera  good  Nothing  say..  On  price  segment  Greatest  Gadget  buy.
+neg: 0.0, neu: 0.544, pos: 0.456, compound: 0.9702, 
+Go  it.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+At  Price  Beast...
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Massive  flagsip  phone!
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Great  product  price,  build  quality  superb  camera  good,  battery  life  good  even  though  3000mah  last  day  even  continuous  usage  I  really  love  product  awesome  nice  phone  15k....camera,  battery,ram  management,  storage,  performance,face  lock  awsom  9.5/10  awesome  phone....and  thanks  Flipkart  genuine  product  Honor  to...
+neg: 0.0, neu: 0.462, pos: 0.538, compound: 0.9892, 
+Camera  Quality  Just  Like  Low  Range  Mobiles  Very  Good  Thank  flipkart  Poor  camera  poor  battery  life  good  build  quality  good  display  avarge  performance  finger  print  face  unlock  quite  fast.
+neg: 0.19, neu: 0.482, pos: 0.328, compound: 0.7159, 
+I  bought  phone  viewing  many  review  YouTube  I  think  paid  reviews.....  Loss  money  good  Very  bad  experience  battery  bad  flipkart  replacing  fantastic  phone  honor  price  camara  superb  nad  notch  display  lolling  amazing  thanqu  honor  One  word  absolute  beauty,  worth  every  penny  "very  nice  product  honor  budget  segment.
+neg: 0.132, neu: 0.429, pos: 0.439, compound: 0.9716, 
+camera  also  decent  job  price."
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+bad  performanced  phone  .
+neg: 0.636, neu: 0.364, pos: 0.0, compound: -0.5423, 
+heating  problem.
+neg: 0.73, neu: 0.27, pos: 0.0, compound: -0.4019, 
+dont  even  think  purchase  phone  nice  performance  Surprisingly..  Too  fast  delivery..
+neg: 0.0, neu: 0.781, pos: 0.219, compound: 0.4215, 
+In  one  day...  Amazing  phone  ...  Mad  ?
+neg: 0.267, neu: 0.417, pos: 0.317, compound: 0.1531, 
+??
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+??
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+??
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+gun  awesome  budget  mobile  notch  unbelievable  performance,honour  rocked  Awesome  Display....  good  budget  phone...with  nice  camera  awesome  display.
+neg: 0.075, neu: 0.311, pos: 0.615, compound: 0.9545, 
+Product  okay  compare  Redmi  Note  5  pro  apart  notch  display  Redmi  note  far  better  phone  price  range.
+neg: 0.0, neu: 0.745, pos: 0.255, compound: 0.5859, 
+Flipkart  support  persons  adamant  recently  care  customer  complaints  process  replacement  refund  requests  even  genuine  reasons.
+neg: 0.131, neu: 0.583, pos: 0.286, compound: 0.4939, 
+Instead  debating  customers  Flipkart  safeguard  customer's  interests  work  towards  satisfaction.
+neg: 0.0, neu: 0.483, pos: 0.517, compound: 0.7579, 
+Definitely  bad  step  Flipkart.
+neg: 0.427, neu: 0.244, pos: 0.329, compound: -0.2023, 
+Disap...
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+The  affordable  Notch  Superb  phone  display  quality  awesome  camera  also  good  value  money  product.
+neg: 0.0, neu: 0.426, pos: 0.574, compound: 0.926, 
+"Awesome  phone  yaar...
+neg: 0.0, neu: 0.328, pos: 0.672, compound: 0.6249, 
+If  big  fan  notch  display,,  must  go  same.."  beautiful  phone,quick  delivery  within  2  days..look  awesome  ,camera  nice,battery  say  received  phone  still  works  quite  good..this  purple  color  reflection  glass  bck  amazing..vl  sharing  pics  guys  pics  shown  flipkart  little  different..but  originality  looks  beautiful  pics  flipkart..must  buy  price..people  u  wanna  sexy  phn  go  Product  looks  performance  camera  display  even  battery  everything  fantastic...  Just  go  it.
+neg: 0.0, neu: 0.726, pos: 0.274, compound: 0.9657, 
+But  phone  delicate  tough  handle  it.
+neg: 0.224, neu: 0.597, pos: 0.179, compound: -0.0772, 
+Except  phone  really  good  I  love  it.
+neg: 0.0, neu: 0.343, pos: 0.657, compound: 0.8258, 
+I  like  thi  phone  And  thank  much  look  mobile  awesome.camera  also  quite  good.it's  compact  mobile  u  easily  operate  one  hand.
+neg: 0.0, neu: 0.569, pos: 0.431, compound: 0.8625, 
+Simply  awesome..  Value  money  One  best  Smartphone  price  range.
+neg: 0.0, neu: 0.515, pos: 0.485, compound: 0.765, 
+You  also  consider  Redmi  Note  5  Pro,  want  better  Battery  Performance.
+neg: 0.0, neu: 0.656, pos: 0.344, compound: 0.4939, 
+The  Camera  Redmi  Note  5  Pro  also  good  ESI,  specially  Portrait  Mode.
+neg: 0.0, neu: 0.775, pos: 0.225, compound: 0.4404, 
+But  like  professional  Photography  like  me,  Honor  9n  best  segment.
+neg: 0.0, neu: 0.326, pos: 0.674, compound: 0.9081, 
+It  gives  Manual  Control  Shutter  Speed,  Exposure  Value,  White  Balance,  3  types  Focuses.
+neg: 0.0, neu: 0.821, pos: 0.179, compound: 0.34, 
+I've  clicked  Awesome  Photos  I'll  share  Amazing.
+neg: 0.0, neu: 0.284, pos: 0.716, compound: 0.8779, 
+The  phone  looks  Gorgeous....
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Very  disappointed  camera  performance.
+neg: 0.531, neu: 0.469, pos: 0.0, compound: -0.5256, 
+I  exchanged  Redmi  A1.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+But  I  taken  wrong  decision  &  missing  MI  A1.
+neg: 0.515, neu: 0.485, pos: 0.0, compound: -0.6486, 
+Good  looking  Super  Best  phone  honor....
+neg: 0.0, neu: 0.214, pos: 0.786, compound: 0.9001, 
+I'm  happy  mobile  :)  "outstanding  smartphone.
+neg: 0.0, neu: 0.219, pos: 0.781, compound: 0.8934, 
+best  camera,  notch  amazing,  overall  nice  phone."
+neg: 0.0, neu: 0.27, pos: 0.73, compound: 0.8957, 
+Battery  life  really  bad.
+neg: 0.558, neu: 0.442, pos: 0.0, compound: -0.5849, 
+But  overall  performance  good.
+neg: 0.0, neu: 0.508, pos: 0.492, compound: 0.4404, 
+Heating  issues  critical  Redmi  Note  4  (I  bought  Flipkart.  )
+neg: 0.247, neu: 0.753, pos: 0.0, compound: -0.3182, 
+Display  Brightness  point  indoor  outdoor  usage  light  constraint.
+neg: 0.0, neu: 0.729, pos: 0.271, compound: 0.3818, 
+bad  rear  camera  battry  also  good  waste  money...only  looks  good.
+neg: 0.348, neu: 0.331, pos: 0.32, compound: -0.128, 
+No  words,  go  buy  "Ordered  31  july  received  next  morning.
+neg: 0.196, neu: 0.804, pos: 0.0, compound: -0.296, 
+Phone  amazing.
+neg: 0.0, neu: 0.208, pos: 0.792, compound: 0.5859, 
+Very  light  weight  phone  like  iphone  6/7/8.
+neg: 0.0, neu: 0.706, pos: 0.294, compound: 0.3612, 
+Compact  design.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Front  16megapixel  camera  superb.
+neg: 0.0, neu: 0.423, pos: 0.577, compound: 0.6249, 
+Rear  13+2mp  camera  average  competition.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Screen  best  thing.
+neg: 0.0, neu: 0.323, pos: 0.677, compound: 0.6369, 
+Phone  works  flawlesly.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Battery  lasts  day.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+No  hang  daily  usage  things  like  whatsapp  etc.
+neg: 0.206, neu: 0.561, pos: 0.234, compound: 0.0772, 
+Maza  aa  gya  14000  me.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+cons  1  battery  back  average.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+heavy  user  face  problem  2  Audio  jack  output  poor.
+neg: 0.492, neu: 0.508, pos: 0.0, compound: -0.7003, 
+3  despite  notch  design  thick  bezel  aroun..."  Too  slow  performance,  fastly  draining  battery.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Tempered  display  touch  responsive.
+neg: 0.0, neu: 0.545, pos: 0.455, compound: 0.3612, 
+Direct  video  calling  phone  dailer  available.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Too  many  features  theme  ie...  cloud,  NY  theft  etc  available  flipkat  replace  refund  product  I  happy  with..
+neg: 0.0, neu: 0.802, pos: 0.198, compound: 0.5719, 
+Battery  rear  camera  big  drawbacks.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Battery  draining  like  anything.
+neg: 0.0, neu: 0.545, pos: 0.455, compound: 0.3612, 
+I  want  return  mobile  get  back  money  looks  highlight  ,  performance  v  good  fell  ??
+neg: 0.0, neu: 0.564, pos: 0.436, compound: 0.7149, 
+luv  wid  phn  I  bought  ??
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+two  "Excellent  build  quality.
+neg: 0.0, neu: 0.448, pos: 0.552, compound: 0.5719, 
+Unique  display.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+fantastic  cameras.
+neg: 0.0, neu: 0.217, pos: 0.783, compound: 0.5574, 
+almost  everything  fine  butt  I  completly  happ  one  coz  support  call  recording  neither  video  calling  option  dial  pad.
+neg: 0.0, neu: 0.78, pos: 0.22, compound: 0.4976, 
+one  make  vedio  call  using  third  party  app  really  disappointin.."  Very  beatiful  phone  best  looking  phone  ever  price  range  &  Display  Is  also  Beautiful.
+neg: 0.0, neu: 0.644, pos: 0.356, compound: 0.9014, 
+Camera  also  super  crispy  bit  saturate  bokeh  mode.
+neg: 0.0, neu: 0.642, pos: 0.358, compound: 0.5994, 
+Overall  Its  Full  Paisa  Wasoool  Phone.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+heating  problem...  Everything  good  dual  volte  support..  nd  also  battery  power  efficient....  "HONOR"  u  r  reading  comment  please  provide  update  DUAL  VOLTE  SUPPORT  IMMEDIATELY  433...
+neg: 0.0, neu: 0.698, pos: 0.302, compound: 0.824, 
+Otherwise  phone  premium  category...  Looks  heart  blossoming..  1)amazing  display  In  love  notch  2)and  Huawei  providing  notch  good  price  range  3)amazing  selfie  camera  4)processor  little  old  lag  issues  regarding  process  play  high  games  want  play  5)battery  backup  great  6)fingerprint  face  unlock  fast  7)overall  great  purchase  price  range  8)  I  suggest  go  phone  amazing  looks  good  specifications  9)happy  purchase  "Superb  mobile  Thanks  Honor  massive  product  Made  again...  mobile  heating  essue,  lagging  essue  hanging  essue...  And  happy  notch  interesting  glossive  looky  price...
+neg: 0.037, neu: 0.541, pos: 0.422, compound: 0.992, 
+Display  amazing...  camera  Fantastic...
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+The  mobile  comes  kirin  659  one  faster  processor  chipset  cortex  A53  octa  core  2.3  GHz  makes  mobile  run  faster.....  Back  side  mobile(blue  model)  attractive.....  Pros:  ..."  Phone  light  weight  camera  even  better  npte  5  pro  performance  also  good  sf  good  looking  phone  best  one  14000  Design,  display  &  build  quality  super...?
+neg: 0.0, neu: 0.777, pos: 0.223, compound: 0.9169, 
+?Front  camera  awesome..
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+??
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Rear  camera  image  quality  great  day  light  condition,  lowlight  condition  images  noise..
+neg: 0.175, neu: 0.585, pos: 0.24, compound: 0.2732, 
+Phone  gets  little  warm  playing  heavy  games  &  long  usage  camera  otherwise  OK.
+neg: 0.0, neu: 0.598, pos: 0.402, compound: 0.6201, 
+Overall  value  money  ??
+neg: 0.0, neu: 0.521, pos: 0.479, compound: 0.4137, 
+"would  love  give  ZERO  stars  option  available!
+neg: 0.0, neu: 0.572, pos: 0.428, compound: 0.6696, 
+kindly  buy  anything  website.
+neg: 0.0, neu: 0.484, pos: 0.516, compound: 0.4939, 
+They  suck,  believe  me.
+neg: 0.492, neu: 0.508, pos: 0.0, compound: -0.4404, 
+They  A  grade  liars.
+neg: 0.63, neu: 0.37, pos: 0.0, compound: -0.5267, 
+Don't  get  stuck  trap!"
+neg: 0.0, neu: 0.596, pos: 0.404, compound: 0.2575, 
+battery  great..but  happy  phone  Awesome  mobile  price.
+neg: 0.0, neu: 0.391, pos: 0.609, compound: 0.8316, 
+low  light  photos  quality  much  good.
+neg: 0.233, neu: 0.444, pos: 0.322, compound: 0.2023, 
+mobile  build  quality  &  design  supper.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+I  like  UI  honor  I  writing  review  using  phone  20  days.
+neg: 0.0, neu: 0.551, pos: 0.449, compound: 0.6908, 
+I  purchased  4GB/64gb  variant  ub  ny  view  compared  product  available  thiis  range,  phone  bit  costly.
+neg: 0.097, neu: 0.903, pos: 0.0, compound: -0.1027, 
+Pros  -  1)  Good  looks  premium  shud  say.
+neg: 0.0, neu: 0.674, pos: 0.326, compound: 0.4404, 
+2)  Display  v  good  vibrant  3)  front  camera  good  shud  nt  say  best  good  back  camera  also  fine  seen  reviews  redmi  note5  pro,  guess  u  wud  get  better  back  camera  redmi  note  5  pro..  4)  phone  v  handy  operate  single  ...  Super  honor  9n...  Is  good  The  honor  9n  definitely  good  choice  want  good  looking  phone  latest  os  moderate  camera  performance.
+neg: 0.0, neu: 0.488, pos: 0.512, compound: 0.9912, 
+The  battery  backup  good.
+neg: 0.0, neu: 0.508, pos: 0.492, compound: 0.4404, 
+Front  camera  fabulous  rear  camera  good  till  now.
+neg: 0.0, neu: 0.488, pos: 0.512, compound: 0.743, 
+Bokeh  mode  need  improved.
+neg: 0.0, neu: 0.492, pos: 0.508, compound: 0.4767, 
+But  Wide  aperture  mode  fine.
+neg: 0.0, neu: 0.69, pos: 0.31, compound: 0.2023, 
+Little  heat  observed  Gaming  normal.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Hoping  fix  camera  giving  ota  updates.
+neg: 0.0, neu: 0.435, pos: 0.565, compound: 0.6369, 
+Amazing  beauty,  good  performance.
+neg: 0.0, neu: 0.087, pos: 0.913, compound: 0.8885, 
+camera  quality  also  good.
+neg: 0.0, neu: 0.508, pos: 0.492, compound: 0.4404, 
+Apps  working  Facelock.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Overall  budget  Phone.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+"Booked  2  Pcs  31st  july  got  2nd  August,  Thankyou  Flipkart  fast  delivery  ??
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+After  3  days  frequent  use  honest  review.
+neg: 0.0, neu: 0.602, pos: 0.398, compound: 0.5106, 
+*Battery  First  fast  charging  provided  took  2  hrs  35  min  charge  100%  10%.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Just  3000  mAh  still  battery  back  bad,  last  day  long  medium  usage.
+neg: 0.241, neu: 0.759, pos: 0.0, compound: -0.5423, 
+lots  power  saving  modes  provided.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+Overall  3.5/5.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+*Camera  Outdoor  daylight  images  crisp  clear,  also  background..."  I  ordered  4GB+64GB  11999  ONLY?
+neg: 0.0, neu: 0.809, pos: 0.191, compound: 0.3818, 
+?Wowwww  Colour  PURPLE,  ????????.
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+LOVELY  MOBILE  I  GIFTED  FOR  MAAA  *LOVE*  SO  IMPRESSED  ????.
+neg: 0.0, neu: 0.403, pos: 0.597, compound: 0.9072, 
+THANK  YOU  HONOR&FLIPKART  STILL  NOW  NO  ISSUES????
+neg: 0.206, neu: 0.469, pos: 0.325, compound: 0.3094, 
+This  android  phone  much  good  looking  good  product  I  ordered  31  july  I  got  02.08  2018  good  servicing  flipkart  camera  good  imagine  phone  awesome  Purchase..  go  Blindly  range  Great  camera  ????
+neg: 0.0, neu: 0.526, pos: 0.474, compound: 0.9673, 
+If  want  phone  looks  good,Performs  well  enough  money  costs  good  battery  back  up..There  phone  better  Honor  9n  ryt  good  phon  three  days  hard  use  I  writing  review.
+neg: 0.039, neu: 0.532, pos: 0.429, compound: 0.9169, 
+camera  awesome  battery  life  also  good.but  gaming  performance  mark
+nice look glass blue colour I love it
+"If you bored with MI phone bcz all family  members using MI and you just bored with the same features then go for this honor 9N...!IN this price range phone is perfect.According to me except battery which is quite average performance, and the most beautiful its EMUI skin which is better than miui, feels like apple device.Perfect design and super amazing display,....I'm happy to have the honor 9N.Battery = 3/5  display = 5/5 camera = 4.5/5  EMUI skin = 4/5 just ignore those negatives t..."
+Nice color
+battery backup poor...3000mah battery is enough but this 3000 mah battery is very very poor.When I am using internet or you tube with in 5mns it was heating I am not satisfied choosing this company
+Awesome phone battery life is bad but performance good.good looking notch
+awesome looks n easy to handle.
+neg: 0.069, neu: 0.699, pos: 0.233, compound: 0.9818, 
+"Excellent device...Ordered the product on 31st July,2018 and delivered on 1st August,2018...Camera,sound,battery,super build quality, unique design,processor is superb...Those who r giving negative review they don't know anything about mobile...Last but not the least  if u want to experience all latest features just purchase it and enjoy..."
+"Pro- Superb Look...
+
+Magnificant screen...Probably Best screen under this budget ?
+neg: 0.035, neu: 0.713, pos: 0.252, compound: 0.9393, 
+?Awesome camera performance (even in low light)
+
+
+ Cons- Battery Drained Too Fast ...
+
+
+ Definitely Go for it..????
+neg: 0.181, neu: 0.513, pos: 0.306, compound: 0.6322, 
+""Battery performance is not so good, heating problem also"
+Awsm
+it's an awesome phone in this price range.Camera is awesome the phone is lagging while playing PUBG heating a little 42-43 degrees.No video call function ie you'll have to install a 3rd party app for video calling.PHONE IS LIGHT WEIGHT AND HANDY.4GB RAM WITH THIS PROCESSOR IS LAGGING THAT'S A ISSUE.Delivered on next day of booking.... Wow good choice for 14k....
+"There is only one competitor in this price segment to Honor 9N & it's Redmi Note 5 Pro.which I am already using.Both phone stands for same quality & performance.But display of the Honor 9n is more better than Redmi Note 5 Pro.while camera quality of the Redmi Note 5 Pro is better than Honor 9n.Design of Honor 9n is very Beautiful than Redmi Note 5 Pro.Honor is very handy phone.easy to handle nd hold in hand.there are more camera features in Honor 9n than in Redmi Note 5 Pro.the o..."
+light weight
+Camera quality is best.???
+neg: 0.071, neu: 0.706, pos: 0.223, compound: 0.9844, 
+?Amazing phone.. You gotta hold it in your hand to feel the beauty of Honor..I have been using MI phones for theast 3 years and Honor is a welcome change..Display is vibrant.. EMUI is good.. Fingerprint sensor and Face unlock works smoothly without any lag.. To sum it up 9/10.. Will do some extensive real world usage testing and will update this review about performance and battery life..Ordered this phone on 7th and received today in afternoon.After looking at the sevice you qill feel amazed with the classy premium looks of it.At this 14k price value of 4gb slot with a notch display will definitely makes a benchmark.The display is too cool with high brighness and full hd.Need atleast 1 month of regular usuage to give you tge performance of it.But today i have open almost 10+ app all together to download set up.. Doesnt feel anykind of disturbment or lagging till now.De...Awesome phone value for money camera is very good..?
+neg: 0.012, neu: 0.802, pos: 0.186, compound: 0.9837, 
+?Battery backup is not good.
+neg: 0.376, neu: 0.624, pos: 0.0, compound: -0.3412, 
+"Best phone ever....Look like iphone 10... Great feeling to hold in hand
+fast face detection...compact size"
+Ausom
+"damn Awesome phone!
+neg: 0.076, neu: 0.365, pos: 0.559, compound: 0.9531, 
+!Design is very premium compare to Mi phones.Nice small size device.Notch looks amazing.I have Redmi note 5 pro and I got this phone because I wanted small size phone.Emui is very smooth.very responsive fingerprint and face unlock.Battery  is 3000mah, sounds less right?but trust me battery backup is amazing I was able to use it 1 and half day!Coming to camera, it's very sharp compare to Redmi Note5p, also very interesting inbuilt camera features.front camera i..."
+"Look is just great.Its my honor phone.Its lookwise great but performance wise not so strong.Display juat great but less than Asus.Headphone aound output not great.Music lovers stay away
+Cant handle high end games.So Game lovers also stay away.camera not so great.Portrainlt mood very bad.Only Selfie is good.Final verdict still RN5 PRO BEST.NOT A VALUE for money at 13999.
+neg: 0.048, neu: 0.758, pos: 0.194, compound: 0.9643, 
+""I bought this phone in the 1st sale.I bought 4gb ram 64gb memory variant.After using this for 1 month I'll conclude all the good and bad things following-
+Display- Display is amazing.color reproduction is too good.If i talk about display it has one of the best display in this range.Design- Phone is quite handy.Looks are great.Back is slippery because of glass.Otherwise, design is good.Processor- Processor is good, but not as good as snapdragon's processor.Heats up while playing heav..."
+"Apart from notch display nothing more exciting about Honor 9n, totally disappointed with camera and battery performance.Unfortunately exchange offer also not available in Flipkart for this mobile.Not worth for the price.#honor you can't compete with Redmi#totally disappointed.
+neg: 0.111, neu: 0.746, pos: 0.143, compound: 0.3398, 
+"Amazing phone with a lot of features and a notch and front camera is amazing
+super phone and best of value for money  and beautiful notch good phone and slim and sexy
+the product worth the money   issues with image clearity  front camera is very good back camera is not that good  ..Battery performance is low 2chargings a day required overall it's a good product...Adding some pictures
+The phone have impressive looking and smooth performance and feel premium while use.Camera is good
+Beautiful design.Classy finish.Love this phone
+mobile looking too beautiful.camera function awsmmmmm.mobile get heating within half an hour.after all nice mobile.I am quite dissatisfied with this phone in terms of performance as well as camera quality.only this phone has identical look and fabulous finish design.Loved it....?
+neg: 0.03, neu: 0.623, pos: 0.347, compound: 0.9944, 
+?Really nice...
+excellent product..
+phone is amazing and very useful
+"Mobile is stunning and very attractive.Light weight and handy.. About softwares and application , so far everything is good.Guess batery backup is not super.. maximum 20hrs :) over all its awesome..HONOR - Huawei great job :)"
+"Got better product after replacement.Thankyou flipkart.Nice camera, day and night.Good job huvawai"
+Love
+Nice peice from huwaei...I brought this phone for my friend... My phone is Honor 10..Selfi Camera is Awesome..Better than honor 10..back is also Good one..Totally it is the best phone in this price range..Camera also performs well in low light conditions
+looking very nice mobile....
+Nice mobile for this price.Happy to get this made in India mobile.Battery performance is good.Not much heating while playing high resolution games.Fast charging.Face unlock word fine.Camera result you can see attached image.Awesome smart phone.Thanks flipkart
+"It is the most beautiful phone in this price segment...
+Pros :-
+Design 10/10
+Notch Display 10/10
+Glass Back 10/10
+Compact Mobile, Easy To Handle With One Hand
+EMUI 8.0 Has Amazing Features...Performance 9/10 , No Lagging
+Fast Face And Fingerprint Unlock 10/10
+
+Cons:-
+Battery Backup Of 1 day Only, Could Have Been Better 8/10
+Camera Is Good But Still Could Have Been Better 8/10
+
+Overall It's A Must Buy Product...
+Value For Money 10/10
+
+Hit The Like Button If U Liked My Review...??
+neg: 0.023, neu: 0.664, pos: 0.313, compound: 0.9976, 
+""The worst phone i have received and used so far.As per the (not so true) reviews made on YouTube  i had purchased this phone.But as soon as i started capturing photos it showed vry poor performance.Images are not clear as expected.I would suggest to go for another brand if you are looking for a phone in this budget.I would also request the youtubers to post genuine reviews to guide their views on right track.Don't just go for publicity and fam , have some genuineness in your posts"
+look of this device is similar to honor 9 lite except the notch display.look wise this device is very nice it feels really premium in hand and I must say its a good choice since it has both look as well as performance.only battery back up is little low but its a very very good device at this price
+"Decent phone in this price range.....
+Kirin 659 is not up to the mark for gaming..
+For daily normal use it's a good phone.....Battery back up us good....
+For 10-100% charging it takes 2.30hrs for full charge (without any use)...
+At last we can say that in this price range it's an good phone in every respect...."
+"Thanks to Flipkart for fast delivery I got my product in just 1day now coming to the mobile.Pros.1.beautiful design 
+2 fast fingerprint and face unlock
+3 good camera
+4.Good processor considering the price and good specs
+5 good back cover from others
+Cons.1.they doesn't provide a screen guard with the mobile
+2.No gesture support 
+3.Only 3000mah battery but that's ok for normal user Overall the phone is worth buying at this price range
+     Just go for i..."
+it was good experience with this mobile I'm happy..
+Good mobile and great value of money and the camera is too good
+Nothing to say.. On this price segment its a Greatest Gadget to buy.Go for it.At this Price it is a Beast...Massive flagsip phone!
+neg: 0.021, neu: 0.776, pos: 0.203, compound: 0.9968, 
+"Great product for the price, build quality is superb camera is good, battery life is good even though it's 3000mah last for day even for continuous usage I really love the product awesome"
+"nice phone under 15k....camera, battery,ram management, storage, performance,face lock awsom 9.5/10 awesome phone....and thanks to Flipkart for genuine product and Honor to..."
+Camera Quality Just Like Low Range Mobiles
+Very Good Thank you flipkart
+Poor camera poor battery life good build quality good display avarge performance finger print and face unlock is quite fast.I bought this phone after viewing so many review on  YouTube but I think they are all paid reviews..... Loss of money
+very good
+Very bad experience the battery was very bad and the flipkart was not replacing it
+fantastic phone by honor in this price camara is superb nad notch display is lolling amazing thanqu honor
+"One word absolute beauty, worth every penny"
+"very nice product by honor in a budget segment.camera also do decent job in this price.
+neg: 0.105, neu: 0.584, pos: 0.311, compound: 0.9916, 
+"its bad performanced phone .heating problem.dont even think to purchase this phone
+nice performance
+Surprisingly.. Too fast delivery..In one day... Amazing  phone ... Mad about it ??????
+neg: 0.206, neu: 0.617, pos: 0.177, compound: -0.264, 
+?gun
+"awesome budget mobile with a notch and with an unbelievable performance,honour has rocked it"
+Awesome Display....
+a good budget phone...with a nice camera and an awesome display.Product is just okay but if we compare it to Redmi Note 5 pro apart from the notch display Redmi note is far better phone in the same price range.Flipkart support persons have been very adamant recently and do not care at all about customer complaints and just do not process any replacement or refund requests even for genuine reasons.Instead of debating with customers Flipkart should safeguard customer's interests and work towards their satisfaction.Definitely bad step from Flipkart.Disap...The most affordable Notch
+Superb phone display quality is awesome and camera also very good value for money product.
+neg: 0.084, neu: 0.624, pos: 0.292, compound: 0.9852, 
+"Awesome phone yaar...If you are big fan of notch display,, you must go for the same.."
+"beautiful phone,quick delivery within 2 days..look is awesome ,camera is nice,battery couldn't say as just received my phone still works quite good..this purple color with reflection glass at d bck is amazing..vl be sharing some pics for you guys as pics shown on flipkart is little different..but in originality looks more beautiful then pics in flipkart..must buy for this price..people u wanna sexy phn can go for this"
+Product looks performance camera display and even battery everything is fantastic... Just go for it.But phone is so delicate and its tough to handle it.Except for that phone is really good I just love it.I like thi phone And thank you so much
+the look of this mobile is awesome.camera also quite good.it's a compact mobile so u can easily operate with one hand.Simply awesome.. Value for money
+"One of the best Smartphone in this price range.You can also consider Redmi Note 5 Pro, if you want a better Battery and Performance.The Camera on Redmi Note 5 Pro is also good with ESI, specially the Portrait Mode.But if you like professional Photography like me, then Honor 9n is the best in this segment.It gives you Manual Control on Shutter Speed, Exposure Value, White Balance, 3 types Focuses.I've clicked some Awesome Photos which I'll share and it's Amazing.The phone looks Gorgeous...."
+Very disappointed with the camera performance.I have exchanged with Redmi A1.But I have taken the wrong decision & missing my MI A1.Good looking
+Super
+Best phone in honor....I'm happy to have this mobile :)
+"outstanding smartphone.best camera, 
+notch is amazing,
+overall nice phone.
+neg: 0.03, neu: 0.671, pos: 0.299, compound: 0.9982, 
+"Battery life is really bad.But overall performance is good.Heating issues are not as critical as Redmi Note 4 (I have bought it from Flipkart.
+neg: 0.0, neu: 0.918, pos: 0.082, compound: 0.2411, 
+)Display and Brightness is on point for indoor and outdoor usage under any light constraint.very bad rear camera and battry is also not good waste of money...only looks are good.
+neg: 0.217, neu: 0.654, pos: 0.129, compound: -0.5236, 
+"No words, go buy it"
+"Ordered it on 31 july and received it next morning.Phone is amazing.Very light weight phone like iphone 6/7/8.Compact design.Front 16megapixel camera is superb.Rear 13+2mp camera is average in competition.Screen is the best thing.Phone works flawlesly.Battery lasts a day.No hang on daily usage things like whatsapp etc.Maza aa gya 14000 me.cons 1 battery back is average.heavy user will face problem
+2 Audio jack output is poor.3 despite notch design there are thick bezel all aroun..."
+"Too slow performance, fastly draining battery.Tempered display touch not responsive.Direct video calling by phone dailer not available.Too many features and theme ie... cloud, NY theft etc not available flipkat not replace or refund my product"
+I am not happy with..Battery and rear camera are big drawbacks.Battery is draining like anything.I just want to return my mobile and get back my money
+"looks are the highlight , over all performance is v good fell in ?
+neg: 0.048, neu: 0.839, pos: 0.112, compound: 0.8556, 
+?luv wid this phn so I bought ?
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+?two"
+"Excellent build quality.Unique display.fantastic both cameras.almost everything is fine butt  I am not completly happ y with this one coz this doesn't support call recording neither video calling option in dial pad.one can make vedio call by using third party app which is really disappointin.."
+Very very very beatiful phone my best looking phone ever under this price range & Display Is also very Beautiful.Camera is also super crispy but bit over saturate in bokeh mode.Overall Its Full Paisa Wasoool Phone.heating problem...
+"Everything is good but there should be dual volte support.. nd also battery should be more power efficient.... ""HONOR"" if u r reading my comment then please provide update for DUAL VOLTE SUPPORT IMMEDIATELY 433...Otherwise phone is of premium category... Looks are heart blossoming.."
+1)amazing display In love this notch 2)and and they Huawei is providing notch in a  very good price range 3)amazing selfie camera 4)processor is little old but no lag no any issues regarding process you can play all high games you want to play 5)battery backup is not that great 6)fingerprint and face unlock are very fast 7)overall a great purchase in this price range 8) I suggest you to go for this phone amazing looks and good specifications 9)happy with purchase
+"Superb mobile Thanks Honor for such a massive product Made again...
+mobile was not having any heating essue, lagging essue and hanging essue... And very happy with the notch it was very interesting and glossive looky at this price...Display was amazing... camera was Fantastic...The mobile comes with the kirin 659 was one of the faster processor and having chipset of cortex A53 octa core 2.3 GHz which makes mobile run faster..... Back side of mobile(blue model) is very attractive.....
+Pros:
+..."
+Phone is so light  weight and both camera are even better than npte 5 pro and performance is also good sf
+good looking phone best one in 14000
+"Design, display & build quality super...?
+neg: 0.053, neu: 0.711, pos: 0.236, compound: 0.9975, 
+?Front camera awesome..?
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+?Rear camera image quality great in day light condition, but in lowlight condition images having noise..Phone gets little warm while playing heavy games & long usage of camera otherwise OK.Overall value for money ??
+neg: 0.095, neu: 0.668, pos: 0.236, compound: 0.6, 
+""would love to give ZERO stars but the option isn't available!kindly don't buy anything from this website.They suck, believe me.They are the A grade liars.Don't get stuck into the trap!
+neg: 0.199, neu: 0.674, pos: 0.127, compound: -0.5682, 
+"battery isn't that great..but happy with the phone
+Awesome mobile in this price.in low light photos quality not that much good.mobile build quality & design is supper.I like the UI of honor
+"I m writing this review after using this phone for 20 days.I have purchased 4GB/64gb variant and ub ny view compared to other product available in thiis range, this phone is bit costly.Pros  - 1) Good looks premium i shud say.2) Display is v good and vibrant 3) front camera is good i shud nt say best but it's good back camera is also fine i have seen the reviews of redmi note5 pro, i guess u wud get better back camera with redmi note 5 pro.. 4) phone is v handy can operate it single ..."
+Super honor 9n... Is good
+The honor 9n is definitely a good choice for those who want a good looking phone with latest os and moderate camera and performance.The battery backup is good.Front camera is fabulous but the rear camera is not so good till now.Bokeh mode need to be improved.But Wide aperture mode is fine.Little heat observed during Gaming but that is normal.Hoping that they will fix the camera by giving ota updates.
+neg: 0.015, neu: 0.696, pos: 0.289, compound: 0.9964, 
+"Amazing beauty, good performance.camera quality also good.Apps not working with Facelock.Overall budget Phone.
+neg: 0.0, neu: 0.488, pos: 0.512, compound: 0.8885, 
+""Booked  2 Pcs on 31st july and got it on 2nd August, Thankyou Flipkart for fast delivery ?
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+?After 3 days of frequent use here is my honest review.
+neg: 0.0, neu: 0.732, pos: 0.268, compound: 0.5106, 
+*Battery
+First of all there is no fast charging provided so for me it took 2 hrs and 35 min for charge up 100% from 10%.Just 3000 mAh still battery back up is not that bad, it last all day long with medium usage.and there are lots of power saving modes provided.Overall 3.5/5.
+neg: 0.04, neu: 0.908, pos: 0.052, compound: 0.1655, 
+*Camera
+Outdoor daylight images are crisp and clear, also background..."
+"I ordered 4GB+64GB 11999 ONLY?
+neg: 0.0, neu: 0.843, pos: 0.157, compound: 0.3818, 
+?Wowwww what a Colour PURPLE, ???????
+neg: 0.0, neu: 1.0, pos: 0.0, compound: 0.0, 
+?.LOVELY MOBILE I GIFTED FOR MAAA *LOVE* SO IMPRESSED ???
+neg: 0.0, neu: 0.579, pos: 0.421, compound: 0.7795, 
+?.THANK YOU HONOR&FLIPKART STILL NOW NO ISSUES????
+neg: 0.345, neu: 0.655, pos: 0.0, compound: -0.4871, 
+"This android phone is to much good looking so good product I have ordered 31 july and I have got 02.08 2018 good servicing by flipkart camera is so good this is imagine phone
+it's awesome Purchase.. go for it Blindly in this range
+Great camera ????
+neg: 0.0, neu: 0.653, pos: 0.347, compound: 0.9673, 
+"If you want a phone that looks good,Performs well enough for the money that it costs and a good battery back up..There is no phone that is better at this than Honor 9n ryt now"
+a good phon
+after three days of hard use I am writing this review.camera is awesome and battery life also good.but the gaming performance is not up to mark
+neg: 0.049, neu: 0.689, pos: 0.262, compound: 0.9413, 
+
+Sentiment score for Camera is:
+-93.86189999999996

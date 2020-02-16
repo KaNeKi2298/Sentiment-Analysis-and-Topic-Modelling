@@ -1,0 +1,2 @@
+Open first.html to start the GUI.
+The reviews for each of the features and their scores are stored in .txt files with the name format "PhoneName_feature_ind" featureind-> 0-7
