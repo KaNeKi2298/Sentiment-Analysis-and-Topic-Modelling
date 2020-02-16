@@ -1,0 +1,19 @@
+The final code is present in the .py file named most_talked_about_features.
+Change the file location in the code accordingly before running.
+.
+Libraries Required to import:
+
+1>pandas
+2>nltk
+3>matplotlib
+4>seaborn
+5>spacy
+6>vaderSentiment
+7>gensim
+8>numpy
+
+Other downloads required:
+
+1> Googles Pretrained word2vec model.
+2> Stop words from nltk.corpus
+3> Corpora from gensim
